@@ -1,0 +1,60 @@
+You: hi how are you today
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: hi how are you
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: hi how are you
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: hi can you hear me how are you today
+
+AI: Yes, I can hear you. I am well, thank you for asking. How are you doing today?
+
+You: i am going well thank you for asking
+
+AI: I am glad to hear that. I am also doing well. Is there anything I can help you with today?
+
+You: hi hi hi hi
+
+AI: Hello! How can I help you today?
+
+You: hi how are you how are you fine
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: so can you hear me
+
+AI: Yes, I can hear you. How can I help you today?
+
+You: hi how are you
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: give me
+
+AI: What would you like me to give you?
+
+You: hi how are you today
+
+AI: I am well, thank you for asking. How are you doing today?
+
+You: hi how are you
+
+AI: I am well, thank you. How are you doing today?
+
+You: what time is the weather for today
+
+AI: I do not have access to real-time information, including the weather forecast. To get the most up-to-date and accurate weather information, I recommend checking a reputable weather app or website.
+
+You: english english
+
+You: english english
+
+AI: I am an AI chatbot designed to understand and respond to a wide range of natural language inputs. I am still under development, but I am learning to communicate more effectively in English and other languages. Can I help you with anything else today?
+
+AI: English, English.
+

@@ -1,0 +1,21 @@
+You: please answer me please
+
+AI: Sure, I'll do my best to answer your questions. Just ask me what you need help with.
+
+You: what do you need help
+
+AI: I can help you with a wide range of tasks, including:
+
+* **Answering questions** on a variety of topics
+* **Providing information** on a variety of topics
+* **Translating** text between different languages
+* **Summarizing** text
+* **Generating** text
+* **Writing** different types of creative content
+* **Creating** different types of images
+* **Finding** information on the web
+* **Automating** tasks
+* **Playing** games
+
+I'm still under development, but I'm learning new things all the time. If you have a specific task that you need
+

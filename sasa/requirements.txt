@@ -1,0 +1,8 @@
+google-generativeai
+speechrecognition
+gtts
+pygame
+pyaudio
+gpiozero
+setuptools
+
